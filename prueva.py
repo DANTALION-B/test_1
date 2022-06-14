@@ -8,3 +8,4 @@ class note:
     
 obj=note()
 print(obj)
+#new repo dev1
